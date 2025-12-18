@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, I'm David
 
-<!--
-**DavidGonzalez78/DavidGonzalez78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Science and Engineering student at UPC, passionate about applying my skills to real-world problems and continuously expanding my knowledge. Here you can find some of my academic projects, which showcase what I've learned throughout my studies.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Academic projects
+[Aircrafts-ETL-project](https://github.com/DavidGonzalez78/Aircrafts-ETL-project) - Design and implementation of an ETL pipeline to reestructure a database about aircrafts. 
+
+[Liver-patient-classification-ML](https://github.com/DavidGonzalez78/Liver-patients-classification-ML) - In this project I cleaned and did an exploratory analysis on a da
+
+
+
+### Contacts
+
