@@ -5,7 +5,11 @@ I'm a Data Science and Engineering student at UPC, interested in applying data a
 
 ## Academic Projects
 
-### ◇ [Aircrafts ETL Project](https://github.com/DavidGonzalez78/Aircrafts-ETL-project)
+### ◇ [House pricing data pipeline and prediction](https://github.com/DavidGonzalez78/House-pricing-data-pipeline-and-prediction)
+End-to-end data engineering and ML pipeline for housing price prediction in Barcelona. Covers data ingestion, cleaning, standardization, feature engineering, outlier handling and predictive modeling, using Python, Spark, MongoDB, MLflow and Airflow.
+
+
+### ◇ [Aircrafts Data Warehouse ETL Pipeline](https://github.com/DavidGonzalez78/Aircrafts-ETL-project)
 Design and implementation of an ETL pipeline to centralize and restructure an airport-related database. The project includes data cleaning, transformation and UML design, significantly improving the efficiency of obtaining key performance indicators.
 
 
