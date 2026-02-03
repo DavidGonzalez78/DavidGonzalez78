@@ -27,6 +27,12 @@ Multivariate analysis of an automobile dataset using dimensionality reduction te
 ### ◇ [Implementation of a Support Vector Machine from Scratch](https://github.com/DavidGonzalez78/Support-Vector-Machine-from-scratch-AMPL/tree/main)
 Implementation of a Support Vector Machine from scratch, solving both its primal and dual optimization problems in AMPL and applying the kernel trick. The implementation was validated using multiple datasets.
 
+
+
+### ◇ ["Landing in the world of masks" - A 48 hour Game Jam project](https://github.com/DavidGonzalez78/Landing-in-the-world-of-masks)
+A puzzle-adventure game created in under 48 hours for Global Game Jam Barcelona 2026, where the theme was "Mask". You play as an alien who crash-lands on an unknown planet. With the power of masks, you must find a way to repair your ship and return to space. The whole game can also be played at [itch.io](https://daviddev78.itch.io/aterrizaje-forzoso).
+
+
 <br>
 
 ## Contact
