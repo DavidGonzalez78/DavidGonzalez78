@@ -33,6 +33,11 @@ Implementation of a Support Vector Machine from scratch, solving both its primal
 A puzzle-adventure game created in under 48 hours for Global Game Jam Barcelona 2026, where the theme was "Mask". You play as an alien who crash-lands on an unknown planet. With the power of masks, you must find a way to repair your ship and return to space. The whole game can also be played at [itch.io](https://daviddev78.itch.io/aterrizaje-forzoso).
 
 
+
+### ◇ ["Criptografia - Treball de Recerca de Batxillerat (2012-2023)"](https://github.com/DavidGonzalez78/Treball-De-Recerca-Batxillerat-2022)
+A research project developed during high school at _Institut de Santa Coloma de Farners_. It focuses on cryptography, exploring classical and modern encryption methods, and includes the design and implementation of a custom cipher algorithm.
+
+
 <br>
 
 ## Contact
