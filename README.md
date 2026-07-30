@@ -5,6 +5,11 @@ I'm a Data Science and Engineering student at UPC, interested in applying data a
 
 ## Academic Projects
 
+
+### ◇ [Vitueris - Obstetric Risk Prediction for BCNatal (Sant Joan de Déu)](https://github.com/jaycoding205/bcnatal-projecte)
+A collaborative project with the obstetrics unit at Sant Joan de Déu Hospital to support clinical decision-making around C-section and fetal distress risk. Full-stack system (frontend, backend, and database) combining computer vision, time-series analysis, and predictive ML models. I led the biomechanical risk model, ultrasound-derived parameters with tabular data to feed the final prediction.
+
+
 ### ◇ [House pricing data pipeline and prediction](https://github.com/DavidGonzalez78/House-pricing-data-pipeline-and-prediction)
 End-to-end data engineering and ML pipeline for housing price prediction in Barcelona. Covers data ingestion, cleaning, standardization, feature engineering, outlier handling and predictive modeling, using Python, Spark, MongoDB, MLflow and Airflow.
 
